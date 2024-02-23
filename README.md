@@ -1,4 +1,4 @@
-# PowerBi_Dashboard_Project
+# PowerBi_Dashboard_Projects
 Welcome to the Power BI Dashboard Projects repository! This collection features a variety of Power BI dashboard projects designed to analyze different datasets and provide insights into various metrics.
 
 # E-Commerce Sales Analysis: 
